@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp target/proc.jar -cp target/app.jar jtp2.zad03.app.Application

@@ -1,0 +1,4 @@
+[Left Control]QLKSDFKDSFOIDSOSDFIOSDF[Left Control]
+
+Clicks: 0, distance: 20270 pixel
+Test duration: 20.623s
